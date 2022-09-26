@@ -1,5 +1,6 @@
 # 19 PWA: Text Editor
 
+It was necessary to create a text editor that works in a browser. The app satisfies the PWA requirements because it is a single-page application. The application can be used offline as well.
 
 ## User Story
 
